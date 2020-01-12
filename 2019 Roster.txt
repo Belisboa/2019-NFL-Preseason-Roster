@@ -10,7 +10,7 @@
 #DL Strength, Run Stop, Pass Rush
 #LB Tackling, Run Stop, Pass Coverage
 Baltimore Ravens,BAL
-QB,Lamar Jackson,22,2018,80,75,85,61,84,95,9.47,4
+QB,Lamar Jackson,22,2018,97,95,93,90,93,95,9.47,4
 QB,Robert Griffin III,29,2012,78,72,80,85,80,80,4.0,2
 QB,Trace McSorley,23,2019,65,70,80,75,70,70,2.6,4
 RB,Mark Ingram,29,2011,86,80,95,90,85,80,15.0,3
